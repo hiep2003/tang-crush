@@ -5,7 +5,7 @@ const CONFIG = {
     Lạc vào tim anh lẻ loi
     Đằng sau chữ yêu đây là thương`,
     btnIntro: 'hihi',
-    title: ' Em có yêu anh không 🥰 ',
+    title: ' Em hãy chọn 1 trong 2 ở dưới này nhé hihi 🥰 ',
     desc: ' Em hãy chọn 1 trong 2 ở dưới này nhé hihi 🥰 ',
     btnYes: 'Yêu anh <3',
     btnNo: 'Không yêu anh đâu',
